@@ -1,0 +1,45 @@
+name: insta_app
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  firebase_core:
+  cloud_firestore:
+  cloud_functions:
+  firebase_auth:
+  image_picker:
+  cached_network_image: ^2.0.0
+  firebase_storage:
+  flutter_image_compress:
+  path_provider:
+  uuid:
+  provider:
+  image_cropper:
+  animator:
+  intl:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: Billabong
+      fonts:
+        - asset: assets/fonts/Billabong.ttf
+

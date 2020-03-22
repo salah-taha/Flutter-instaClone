@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1058787551831",
+    "firebase_url": "https://cuber-59435.firebaseio.com",
+    "project_id": "cuber-59435",
+    "storage_bucket": "cuber-59435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058787551831:android:9ba4e14afc297496fbd112",
+        "android_client_info": {
+          "package_name": "studio.salah.radio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058787551831-j2rvijb14uuv95vegobuc4hrpifj5s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgxjcw9hlVrXH1-QfFPodlcMOCWxs_rFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058787551831-j2rvijb14uuv95vegobuc4hrpifj5s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

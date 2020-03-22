@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "743942861225",
+    "firebase_url": "https://insta-app-c9ab3.firebaseio.com",
+    "project_id": "insta-app-c9ab3",
+    "storage_bucket": "insta-app-c9ab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743942861225:android:4f05a00858cc5e5eead4b8",
+        "android_client_info": {
+          "package_name": "studio.salah.insta_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743942861225-ttno6o62tha36g8f5883imhhba715rlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD09GUwmxayLeof6RfXASikwyJTLgmK38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743942861225-ttno6o62tha36g8f5883imhhba715rlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
